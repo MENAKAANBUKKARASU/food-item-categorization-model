@@ -17,6 +17,26 @@ Algorithms Used:
         
         Application: Categorizing food items based on various features.
 
+  **Decision Trees**
+
+         Usage: Hierarchical categorization based on features like spice level and cuisine.
+         Training Data: Dataset with food features (e.g., spice level, cuisine) and categories.
+
+  **Random Forest**
+
+        Usage: Ensemble of decision trees for robust categorization.
+        Training Data: Similar to Decision Trees.
+
+  **K-Nearest Neighbors (KNN)**
+
+       Usage: Item categorization based on similarity.
+       Training Data: Dataset with features and categories.
+
+  **Support Vector Machines (SVM)**
+
+       Usage: Effective for clear separation between categories.
+       Training Data: Dataset with features and categories.
+
 
    **Recurrent Neural Network (RNN) - LSTM:**
    
