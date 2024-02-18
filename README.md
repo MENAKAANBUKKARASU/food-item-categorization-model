@@ -62,8 +62,8 @@ Instructions:
 
     bash
 
-git clone https://github.com/yourusername/food-item-categorization-model.git
-
+git clone [https://github.com/yourusername/food-item-categorization-model.git
+](https://github.com/MENAKAANBUKKARASU/food-item-categorization-model.git)
 Install dependencies:
 
 bash
