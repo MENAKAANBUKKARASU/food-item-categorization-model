@@ -2,7 +2,21 @@ Food Item Categorization Model
 Overview:
 
 This project aims to categorize food items based on various features such as cuisine, preparation method, and nutrient values. The system takes a food item name as input and provides detailed information about the dish.
-Algorithms Used:
+**Objectives:**
+
+  **Automated Categorization:**
+        Enable automatic categorization of food items into various classes based on multiple features.
+
+  **User-Friendly Interface:**
+        Provide a simple interface for users to input a dish name and receive detailed information about the dish.
+
+   **Dietary Recommendations:**
+        Suggest suitable dishes for different age groups based on nutrient values, promoting healthy eating habits.
+
+  **Multi-Algorithms Approach:**
+        Implement a combination of algorithms, including Naive Bayes, SVM, RNN, and CNN, to handle diverse types of input data.
+
+**Algorithms Used:**
 
    **Naive Bayes Classifier:**
    
