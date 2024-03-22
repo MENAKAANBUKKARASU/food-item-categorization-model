@@ -124,6 +124,7 @@ Usage:
 
       bash
          jupyter notebook item_categorization.ipynb
+  **Screenshots**
 
 Follow the notebook instructions to categorize food items.
 
