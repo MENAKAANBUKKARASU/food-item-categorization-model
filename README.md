@@ -125,6 +125,12 @@ Usage:
       bash
          jupyter notebook item_categorization.ipynb
   **Screenshots**
+  
+  ![Screenshot (211)](https://github.com/MENAKAANBUKKARASU/food-item-categorization-model/assets/113598770/96519c0b-fe51-41d9-8819-2c215ecdce4b)
+
+
+  ![image](https://github.com/MENAKAANBUKKARASU/food-item-categorization-model/assets/113598770/8bac88eb-358a-44d3-8f52-9fdf3ac03db4)
+
 
 Follow the notebook instructions to categorize food items.
 
